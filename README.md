@@ -14,3 +14,10 @@ Packaging Github as an Electron Snap
 # Send
 
 `snapcraft login`
+
+
+# Development
+
+`npm start`
+
+`npm run dist`
