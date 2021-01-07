@@ -1,5 +1,5 @@
 {
-  "name": "github",
+  "name": "github-electron",
   "version": "1.0.0",
   "description": "Github",
   "main": "main.js",
